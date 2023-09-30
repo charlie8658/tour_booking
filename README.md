@@ -7,13 +7,15 @@ This is a simple login page designed using HTML and CSS. It provides a user-frie
 - index.html: This is the main HTML file that contains the structure of the login page.
 - styleo.css: This is the CSS file responsible for styling the login page.
 
-Project Structure
+**Project Structure**
+
 The project is organized with the following structure:
 
-index.html: This file contains the HTML structure of the login page.
-styleo.css: This file contains the CSS styles used to design and layout the login page.
-Torry.png: An image file (you can replace this with your own image).
-1.jpg: An image file used as the background (you can replace this with your own background image).
+- index.html: This file contains the HTML structure of the login page.
+- styleo.css: This file contains the CSS styles used to design and layout the login page.
+- Torry.png: An image file (you can replace this with your own image).
+- 1.jpg: An image file used as the background (you can replace this with your own background image).
+
 HTML Structure
 The login page consists of a login box with a username and password input fields.
 There are "UserName" and "Password" labels next to their respective input fields.
