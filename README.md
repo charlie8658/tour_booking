@@ -18,26 +18,20 @@ The project is organized with the following structure:
 
 **HTML Structure**
 
-The login page consists of a login box with a username and password input fields.
-There are "UserName" and "Password" labels next to their respective input fields.
-A "Login" button is provided for submitting the login form.
-There are links for "Forgot Password" and "Create New Account" at the bottom of the form.
+- The login page consists of a login box with a username and password input fields.
+- There are "UserName" and "Password" labels next to their respective input fields.
+- A "Login" button is provided for submitting the login form.
+- There are links for "Forgot Password" and "Create New Account" at the bottom of the form.
 
 **CSS Styling**
 
-The background of the page is set to a background image (1.jpg) with a cover style.
-The login box is styled with a black background, white text, and is centered both horizontally and vertically.
-The user's profile image is displayed as a circular image above the login box.
-Input fields have a transparent background with white text and a bottom border.
-The "Login" button is styled with a brown background and dark cyan hover effect.
-Links are styled with a gray color and turn orange when hovered over.
+- The background of the page is set to a background image (1.jpg) with a cover style.
+- The login box is styled with a black background, white text, and is centered both horizontally and vertically.
+- The user's profile image is displayed as a circular image above the login box.
+- Input fields have a transparent background with white text and a bottom border.
+- The "Login" button is styled with a brown background and dark cyan hover effect.
+- Links are styled with a gray color and turn orange when hovered over.
 
 **Usage**
 
 You can use this login page template as a starting point for your web application. Customize it by modifying the HTML content and CSS styles to match your branding and functionality requirements. Replace the sample images (Torry.png and 1.jpg) with your own images.
-
-Credits
-This template was created by [Your Name or Organization].
-Images used in this template are for demonstration purposes and should be replaced with your own images or placeholders.
-License
-This project is under the [License Name] license. You can find more details in the LICENSE file.
