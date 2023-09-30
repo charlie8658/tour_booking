@@ -16,19 +16,24 @@ The project is organized with the following structure:
 - Torry.png: An image file (you can replace this with your own image).
 - 1.jpg: An image file used as the background (you can replace this with your own background image).
 
-HTML Structure
+**HTML Structure**
+
 The login page consists of a login box with a username and password input fields.
 There are "UserName" and "Password" labels next to their respective input fields.
 A "Login" button is provided for submitting the login form.
 There are links for "Forgot Password" and "Create New Account" at the bottom of the form.
-CSS Styling
+
+**CSS Styling**
+
 The background of the page is set to a background image (1.jpg) with a cover style.
 The login box is styled with a black background, white text, and is centered both horizontally and vertically.
 The user's profile image is displayed as a circular image above the login box.
 Input fields have a transparent background with white text and a bottom border.
 The "Login" button is styled with a brown background and dark cyan hover effect.
 Links are styled with a gray color and turn orange when hovered over.
-Usage
+
+**Usage**
+
 You can use this login page template as a starting point for your web application. Customize it by modifying the HTML content and CSS styles to match your branding and functionality requirements. Replace the sample images (Torry.png and 1.jpg) with your own images.
 
 Credits
