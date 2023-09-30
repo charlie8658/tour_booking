@@ -2,9 +2,11 @@
 
 This is a simple login page designed using HTML and CSS. It provides a user-friendly interface for users to log in with their credentials. Below are the details of the files and the structure of the project.
 
-Files
-index.html: This is the main HTML file that contains the structure of the login page.
-styleo.css: This is the CSS file responsible for styling the login page.
+**Files**
+
+- index.html: This is the main HTML file that contains the structure of the login page.
+- styleo.css: This is the CSS file responsible for styling the login page.
+
 Project Structure
 The project is organized with the following structure:
 
